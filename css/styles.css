@@ -446,4 +446,7 @@ h5{
     #select-b {
         font-size: 85%;
     }
+    .text-start{
+        margin-right: 15%;
+    }    
 }
