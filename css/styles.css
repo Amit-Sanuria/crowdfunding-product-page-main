@@ -315,6 +315,8 @@ h5{
 }
 
 .content{
+    border-style: solid;
+    border-width: 2px;
     border-color:hsl(176, 50%, 47%);
 }
 
